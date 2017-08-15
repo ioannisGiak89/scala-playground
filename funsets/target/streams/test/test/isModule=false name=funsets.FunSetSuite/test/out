@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter contains all elements of a set that are accepted by a given predicate p[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall tests whether a given predicate is true for all elements of the set[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists tests whether a set contains at least one element for which the given predicate is true[0m[0m

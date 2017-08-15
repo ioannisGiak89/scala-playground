@@ -1,0 +1,1 @@
+2017-07-07 14:07:53,844 [WARN] from org.apache.kafka.clients.NetworkClient in whosthere-impl_05-application-akka.kafka.default-dispatcher-22 - Error while fetching metadata with correlation id 1 : {hello-events=LEADER_NOT_AVAILABLE}

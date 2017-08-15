@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mHuffmanSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- weight of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- chars of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
+[0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of 2 leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of 1 leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- encode frenchcode[0m[0m
+[0m[[0minfo[0m] [0m[32m- code bits[0m[0m
+[0m[[0minfo[0m] [0m[32m- quick encode[0m[0m
